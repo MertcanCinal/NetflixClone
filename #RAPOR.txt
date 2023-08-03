@@ -1,0 +1,2 @@
+toolbar ile yaptığım sitenin mobil için de uyumlu olması için css düzenlemesi yapmayı öğrendim.
+html & css ile site clone yaparak pratik yapmaya devam ettim.
